@@ -15,7 +15,8 @@ Designed a custom Variable Length Subnet Mask (VLSM) scheme for a multi-departme
 * **CLI Configuration:** Configured router interfaces and end-devices via the Cisco IOS CLI.
 * **Network Planning:** Calculated and assigned address blocks based on specific host requirements.
 
-![VLSM Topology](./Project-01-VLSM-Addressing/Topology_Screenshot.png)
+![VLSM Topology](<img width="553" height="376" alt="image" src="https://github.com/user-attachments/assets/fdfb59f8-2f1c-412f-b967-704deff05edd" />
+)
 
 ---
 
