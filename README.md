@@ -16,8 +16,8 @@ Designed a custom Variable Length Subnet Mask (VLSM) scheme for a multi-departme
 * **Network Planning:** Calculated and assigned address blocks based on specific host requirements.
 
 ![VLSM Topology]<img width="553" height="376" alt="image" src="https://github.com/user-attachments/assets/fdfb59f8-2f1c-412f-b967-704deff05edd" />
-
----
+ 
+--- 
 
 ## 🛠️ Project 2: Default Gateway Troubleshooting
 **File:** `10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues.pka`
